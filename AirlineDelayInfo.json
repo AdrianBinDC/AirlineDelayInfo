@@ -1,0 +1,186 @@
+{
+    "dataSource": "https://www.transportation.gov/airconsumer/airline-customer-service-dashboard",
+    "dataDate": "09-01-2022",
+    "airlines" : [
+    {
+        "name": "Alaska Airlines",
+        "policyURLString": "https://www.alaskaair.com/content/about-us/customer-commitment/customer-commitment-overview?lid=footer:customerCommitment",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        }
+    },
+    {
+        "name": "Allegiant Air",
+        "policyURLString": "https://www.allegiantair.com/customer-service-plan",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": false,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": false,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        }
+    },
+    {
+        "name": "American Airlines",
+        "policyURLString": "https://www.aa.com/i18n/customer-service/support/customer-service-plan.jsp",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": true,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": true,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        }
+    },
+    {
+        "name": "Delta Airlines",
+        "policyURLString": "https://www.delta.com/us/en/legal/customer-commitment",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": true,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": true,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        }
+    },
+    {
+        "name": "Frontier Airlines",
+        "policyURLString": "https://www.flyfrontier.com/legal/customer-service-plan?mobile=true",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": false,
+            "groundTransportationToHotel": false
+        }
+    },
+    {
+        "name": "Hawaiian Airlines",
+        "policyURLString": "https://www.hawaiianairlines.com/about-us/customer-service-plan",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": true,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        }
+    },
+    {
+        "name": "JetBlue",
+        "policyURLString": "https://www.jetblue.com/legal/customer-service-plan",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": true,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": true,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        }
+    },
+    {
+        "name": "SouthWest Airlines",
+        "policyURLString": "https://www.southwest.com/html/about-southwest/index.html?clk=GFOOTER-ABOUT-CUSTOMER-COMMITMENTS#_tab_5",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": false
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        }
+    },
+    {
+        "name": "Spirit Airlines",
+        "policyURLString": "https://content.spirit.com/Shared/en-us/Documents/Contract_of_Carriage.pdf",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": false
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": false,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": false
+        }
+    },
+    {
+        "name": "United Airlines",
+        "policyURLString": "https://www.united.com/ual/en/us/fly/customer-commitment.html",
+        "cancellatonInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": true,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        },
+        "delayInfo": {
+            "willRebookSameAirline": true,
+            "willRebookDifferentAirline": true,
+            "cashOrMealVoucher3Hours": true,
+            "hotelForOvernightCancellation": true,
+            "groundTransportationToHotel": true
+        }
+    }
+]
+}
